@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Amey here!</h1>
-<h3 align="center">MSCS @ <a href=https://www.khoury.northeastern.edu target="blank">NEU</a>,Ex-Software Developer Coop @ <a href=https://www.goscoutgo.com target="blank">Scout</a>, Ex-Software Developer @ <a href=https://www.tcs.com target="blank">TCS</a>
+<h3 align="center">MSCS @ <a href=https://www.khoury.northeastern.edu target="blank">NEU</a>, Ex-Software Developer Coop @ <a href=https://www.goscoutgo.com target="blank">Scout</a>, Ex-Software Developer @ <a href=https://www.tcs.com target="blank">TCS</a>
 <p align="center">
 <a href=mailto:arya.am@northeastern.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="amey" height="20" width="20" /></a>
 <a href=https://www.linkedin.com/in/ameyarya target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsjafer" height="20" width="20" /></a>
