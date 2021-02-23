@@ -6,7 +6,7 @@
 <a href=https://ameyarya.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="itsjafer" height="20" width="20" /></a>
 </p>
 <p align="center">
-- 👨🏻‍💻 I’m currently interning at Scout Exchange as a Full Stack Developer, check out my profile <a href=https://ameyarya.github.io/>here</a>.
+- 👨🏻‍💻 I have recently completed my Software Engineering Coop at Scout Exchange LLC, check out my profile <a href=https://ameyarya.github.io/>here</a>.
 </p>
 <p align="center">
 - 📚 Pursuing Master's in Computer Science at Northeastern unoversity with focus on Software Development.
