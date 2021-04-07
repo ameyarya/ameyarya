@@ -9,7 +9,7 @@
 - 👨🏻‍💻 I am an incoming Software Engineering Intern at LinkedIn, check out my profile <a href=https://ameyarya.github.io/>here</a>.
 </p>
 <p align="center">
-- 📚 Pursuing Master's in Computer Science at Northeastern unoversity with focus on Software Development.
+- 📚 Pursuing Master's in Computer Science at Northeastern university with focus on Software Development.
 </p>
 <p align="center">
 - 💬 Ask me about my work experience, the master's degree program, my projects, or anything else.
