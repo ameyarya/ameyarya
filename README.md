@@ -6,7 +6,7 @@
 <a href=https://ameyarya.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="itsjafer" height="20" width="20" /></a>
 </p>
 <p align="center">
-- 👨🏻‍💻 I recently finished my Internship at LinkedIn as Software Engineering Intern, check out my work <a href=https://ameyarya.github.io/>here</a>
+- 👨🏻‍💻 I recently finished my Internship at LinkedIn as Software Engineering Intern, check out my work <a href=https://ameyarya.github.io/work/>here</a>
 </p>
 <p align="center">
 - 📚 Pursuing Master's in Computer Science at Northeastern University with focus on Software Development (Web & Mobile)
